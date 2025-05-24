@@ -1,0 +1,8 @@
+1. Best sentiment range for trading: Extreme Fear (0-25) with avg daily PnL of $49,495.93
+2. Strongest correlation with sentiment: unique_traders (r=-0.278)
+3. Most profitable coin: @107 with total PnL of $2,783,912.92
+4. Best trading hour: 12:00 with avg PnL of $131.17
+5. Best risk-adjusted returns during: Extreme Greed periods
+6. Highest win rate during: Extreme Greed (76-100) (47.0%)
+
+_Analysis complete! Processed `211,224` trades across `479` days._
